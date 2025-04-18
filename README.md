@@ -1,40 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8">
-  <title>Agenda de Provas – 8º Ano</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 40px;
-      line-height: 1.6;
-      background-color: #f8f8f8;
-    }
-    h1, h2 {
-      color: #2a2a2a;
-    }
-    .escola {
-      font-size: 1.1em;
-      margin-bottom: 30px;
-      color: #444;
-    }
-    .prova {
-      background: #fff;
-      border-left: 5px solid #4a90e2;
-      padding: 15px 20px;
-      margin-bottom: 20px;
-      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-    }
-    ul {
-      margin-top: 10px;
-    }
-    li {
-      list-style: none;
-    }
-    li::before {
-      content: "[ ] ";
-      color: #333;
-    }
+
   </style>
 </head>
 <body>
